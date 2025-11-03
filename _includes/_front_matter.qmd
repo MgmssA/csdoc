@@ -1,0 +1,19 @@
+---
+title: |
+    <p>![](style/mgmss_symbol_color.png){width=40px}</p>
+    Title
+subtitle: 'Subtitle<br><small>Document type</small>'
+date: 2100-10-10 
+date-modified: 2100-10-10
+author: Călin Aurel Drăgan
+abstract: 'Abstract'
+# bibliography: references.bib
+format: 
+    csdoc-html:
+        include-in-header: _includes/_in_header.html
+        # include-after-body: _includes/_after_body.html
+        embed-resources: false
+        self-contained-math: false
+# filters:
+#   - highlight-text
+---
