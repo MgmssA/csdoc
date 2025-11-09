@@ -17,9 +17,8 @@ brand: _brand.yml
 format:
     html:
         theme: 
-          - brand
           - style/_custom.scss
-        css: style/_style.css
+          - brand
 
 engine: knitr
 execute:
