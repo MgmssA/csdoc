@@ -1,3 +1,5 @@
+::: {.hidden}
+
 <!-- Groundwork -->
 $$
 \gdef\sub#1{_{\mathrm{#1}}}
@@ -30,3 +32,5 @@ $$
 \gdef\jouleperkilogramperkelvin{\frac{\joule}{\kilogram\,\kelvin}}
 \gdef\joulepermoleperkelvin{\frac{\joule}{\mole\,\kelvin}}
 $$
+
+:::
